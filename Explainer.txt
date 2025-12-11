@@ -1,0 +1,3 @@
+This is a set of code snippets from the Lycee's math club.
+
+Schur colouring: This code is a system that generates all combinations of a certain ammount of letters of length n. Then it checks if there are any values i, j, k so that arr[i]=arr[j]=arr[k] where i+j=k
